@@ -1,0 +1,6 @@
+[run]
+branch = True
+source = kea_dhcp_db
+
+[report]
+ignore_errors = True
